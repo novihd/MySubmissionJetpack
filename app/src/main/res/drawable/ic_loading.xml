@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:width="150dp"
+        android:height="225dp"
+        android:drawable="@drawable/bg_proses" />
+
+    <item
+        android:top="30dp"
+        android:bottom="50dp"
+        android:drawable="@drawable/ic_baseline_refresh_24"
+        />
+</layer-list>

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MySubmissionJetpack1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="movie">Movie</string>
+    <string name="tv">TV Series</string>
+    <string name="detail">Detail</string>
+    <string name="place_holder_desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</string>
+    <string name="poster_detail">Poster Detail</string>
+    <string name="title_show">TITLE SHOW</string>
+    <string name="back_button">Back Button</string>
+    <string name="netflex">NETFLEX</string>
+    <string name="lets_find_your_favorite_show">Lets find your favorite show!</string>
+    <string name="genre">Fantasy, Adventure, Animation, Family</string>
+    <string name="rating">9.0</string>
+    <string name="synopsis">SYNOPSIS</string>
+    <string name="link">https://www.themoviedb.org/t/p/w600_and_h900_bestv2</string>
+    <string name="date">10–10–20</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="favorite">Favorite</string>
+    <string name="newest">Newest</string>
+    <string name="oldest">Oldest</string>
+</resources>
